@@ -1,0 +1,6 @@
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="**/TrainingActivity.java"/>
+        <ignore path="**/EvaluationActivity.java"/>
+    </issue>
+</lint>

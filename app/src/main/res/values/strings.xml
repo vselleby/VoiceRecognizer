@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoiceRecognizer</string>
+    <string name="training_username">Type Username</string>
+    <string name="test_voice">Test voice</string>
+    <string name="new_voice">New voice</string>
+    <string name="save_button">Save User</string>
+    <string name="record_button">Record Audio</string>
+    <string name="evaluate_audio">Evaluate Audio</string>
+</resources>
